@@ -7,9 +7,10 @@ HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+   <title>Erie Games 777 | Casino Skill Games Nearby</title>
+<meta name="description" content="Erie Games 777. Casino skill games nearby, local slots, adult gaming rooms, and premium entertainment in Erie, PA. Find casino action right down the street.">
+<meta name="keywords" content="erie games 777, eriegames777, ERIE GAMES 777, ERIEGAMES777, casino skill games erie, casinoskillgameserie, CASINO SKILL GAMES ERIE, CASINOSKILLGAMESERIE, erie skill games, erieskillgames, ERIE SKILL GAMES, ERIESKILLGAMES, casino in erie, casinoinerie, CASINO IN ERIE, CASINOINERIE">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ERIE GAMES 777</title>
     <style>
         :root {
             --bg-black: #0a0a0a;
@@ -222,10 +223,13 @@ HTML_TEMPLATE = """
 
     <header>
         <div class="logo-container">
-            <img src="/static/logo.png" alt="Store Logo" onerror="this.style.display='none'">
-        </div>
-        <h1> ERIE GAMES 777</h1>
-        <p>Premium Entertainment Experience</p>
+<img src="/static/logo.png" alt="Erie Games 777 Casino Skill Games" onerror="this.style.display='none'">
+</div>
+<h1>ERIE GAMES 777</h1>
+<p>Casino Skill Games Nearby</p>
+<span style="display:none;">
+    erie games 777 eriegames777 casino skill games erie casinoskillgameserie erie skill games erieskillgames casino in erie casinoinerie casino nearby casinonearby skill games nearby skillgamesnearby slots near me slotsnearme slot machines slotmachines gaming lounge gaminglounge gambling room gamblingroom adult arcade adultarcade payout cash payoutcash jackpot win jackpotwin game room gameroom skill play skillplay local casino localcasino cash payout cashpayout game house gamehouse lounge spot loungespot parlor boutique parlorboutique progressives jackpots progressivesjackpots spin bet spinbet 777 slots 777slots erie pa eriepa pennsylvania pa pennsylvaniapa millcreek township millcreektownship summit pa summitpa harborcreek pa harborcreekpa fairview pa fairviewpa girard pa girardpa ERIE GAMES 777 CASINO SKILL GAMES ERIE ERIE SKILL GAMES CASINO IN ERIE CASINO NEARBY SLOTS NEAR ME SLOT MACHINES GAMING LOUNGE GAMBLING ROOM ADULT ARCADE PAYOUT CASH JACKPOT WIN ERIEGPAMES777 CASINOSKILLGAMESERIE ERIESKILLGAMES CASINOINERIE CASINONEARBY SKILLGAMESNEARBY SLOTNEARME SLOTMACHINES GAMINGLOUNGE GAMBLINGROOM ADULTARCADE PAYOUTCASH JACKPOTWIN
+</span>
     </header>
 
     <div class="container">
