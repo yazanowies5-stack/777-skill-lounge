@@ -9,7 +9,7 @@ HTML_TEMPLATE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>777 Skill Games Lounge</title>
+    <title>ERIE GAMES 777</title>
     <style>
         :root {
             --bg-black: #0a0a0a;
