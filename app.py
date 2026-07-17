@@ -7,7 +7,7 @@ HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <title>Erie Games 777 | Casino Skill Games Nearby</title>
+   <title>Erie Games 777 | Your New Favourite spot</title>
 <meta name="description" content="Erie Games 777. Casino skill games nearby, local slots, adult gaming rooms, and premium entertainment in Erie, PA. Find casino action right down the street.">
 <meta name="keywords" content="erie games 777, eriegames777, ERIE GAMES 777, ERIEGAMES777, casino skill games erie, casinoskillgameserie, CASINO SKILL GAMES ERIE, CASINOSKILLGAMESERIE, erie skill games, erieskillgames, ERIE SKILL GAMES, ERIESKILLGAMES, casino in erie, casinoinerie, CASINO IN ERIE, CASINOINERIE">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
