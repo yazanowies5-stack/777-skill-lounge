@@ -226,7 +226,7 @@ HTML_TEMPLATE = """
 <img src="/static/logo.png" alt="Erie Games 777 Casino Skill Games" onerror="this.style.display='none'">
 </div>
 <h1>ERIE GAMES 777</h1>
-<p>Casino Skill Games Nearby</p>
+<p>Your New Favourite spot in Erie</p>
 <span style="display:none;">
     erie games 777 eriegames777 casino skill games erie casinoskillgameserie erie skill games erieskillgames casino in erie casinoinerie casino nearby casinonearby skill games nearby skillgamesnearby slots near me slotsnearme slot machines slotmachines gaming lounge gaminglounge gambling room gamblingroom adult arcade adultarcade payout cash payoutcash jackpot win jackpotwin game room gameroom skill play skillplay local casino localcasino cash payout cashpayout game house gamehouse lounge spot loungespot parlor boutique parlorboutique progressives jackpots progressivesjackpots spin bet spinbet 777 slots 777slots erie pa eriepa pennsylvania pa pennsylvaniapa millcreek township millcreektownship summit pa summitpa harborcreek pa harborcreekpa fairview pa fairviewpa girard pa girardpa ERIE GAMES 777 CASINO SKILL GAMES ERIE ERIE SKILL GAMES CASINO IN ERIE CASINO NEARBY SLOTS NEAR ME SLOT MACHINES GAMING LOUNGE GAMBLING ROOM ADULT ARCADE PAYOUT CASH JACKPOT WIN ERIEGPAMES777 CASINOSKILLGAMESERIE ERIESKILLGAMES CASINOINERIE CASINONEARBY SKILLGAMESNEARBY SLOTNEARME SLOTMACHINES GAMINGLOUNGE GAMBLINGROOM ADULTARCADE PAYOUTCASH JACKPOTWIN
 </span>
