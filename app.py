@@ -224,7 +224,7 @@ HTML_TEMPLATE = """
         <div class="logo-container">
             <img src="/static/logo.png" alt="Store Logo" onerror="this.style.display='none'">
         </div>
-        <h1>777 Skill Games Lounge</h1>
+        <h1> ERIE GAMES 777</h1>
         <p>Premium Entertainment Experience</p>
     </header>
 
