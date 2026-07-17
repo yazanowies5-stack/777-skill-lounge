@@ -285,7 +285,7 @@ HTML_TEMPLATE = """
                     <div class="perk-icon">🕒</div>
                     <div class="perk-text">
                         <h4>Daily Hours</h4>
-                        <p>Open from 10:00 AM to 12:00 PM.</p>
+                        <p>Open from 10:00 AM to 12:00 AM.</p>
                     </div>
                 </div>
             </div>
