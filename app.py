@@ -291,7 +291,7 @@ HTML_TEMPLATE = """
     </div>
 
     <footer>
-        <p>&copy; 2026 777 Skill Games Lounge. Must be 21+ to enter. All rights reserved.</p>
+        <p>&copy; 2026 Erie Games 777. Must be 21+ to enter. All rights reserved.</p>
     </footer>
 
 </body>
