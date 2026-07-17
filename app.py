@@ -11,6 +11,7 @@ HTML_TEMPLATE = """
 <meta name="description" content="Erie Games 777. Casino skill games nearby, local slots, adult gaming rooms, and premium entertainment in Erie, PA. Find casino action right down the street.">
 <meta name="keywords" content="erie games 777, eriegames777, ERIE GAMES 777, ERIEGAMES777, casino skill games erie, casinoskillgameserie, CASINO SKILL GAMES ERIE, CASINOSKILLGAMESERIE, erie skill games, erieskillgames, ERIE SKILL GAMES, ERIESKILLGAMES, casino in erie, casinoinerie, CASINO IN ERIE, CASINOINERIE">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
             --bg-black: #0a0a0a;
@@ -294,8 +295,19 @@ HTML_TEMPLATE = """
 
     </div>
 
-    <footer>
-        <p>&copy; 2026 Erie Games 777. Must be 21+ to enter. All rights reserved.</p>
+    <!-- FOOTER SOCIAL MEDIA LINKS -->
+    <footer style="margin-top: 50px; padding: 20px 0; border-top: 1px solid #141414; text-align: center;">
+        <div class="social-icons" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 10px;">
+            <!-- Facebook -->
+            <a href="https://www.facebook.com/share/19A4VntxDA/" target="_blank" style="color: #d4af37; font-size: 28px; text-decoration: none; transition: 0.3s;" onmouseover="this.style.color='#f3e5ab'" onmouseout="this.style.color='#d4af37'">
+                <i class="fab fa-facebook"></i>
+            </a>
+            <!-- Instagram -->
+            <a href="https://www.instagram.com/eriegames777?igsh=bXhkeG5jZjk4cXZz" target="_blank" style="color: #d4af37; font-size: 28px; text-decoration: none; transition: 0.3s;" onmouseover="this.style.color='#f3e5ab'" onmouseout="this.style.color='#d4af37'">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+        <p style="color: #cccccc; font-size: 14px; margin-top: 10px;">&copy; 2026 Erie Games 777. Must be 21+ to enter. All Rights Reserved.</p>
     </footer>
 
 </body>
