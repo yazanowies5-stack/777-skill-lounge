@@ -223,8 +223,8 @@ HTML_TEMPLATE = """
 <body>
 
     <header>
-        <div class="logo-container">
-<img src="/static/logo.png" alt="Erie Games 777 Casino Skill Games" onerror="this.style.display='none'">
+  <div class="logo-container" style="width: 100%; padding: 0 10px; box-sizing: border-box;">
+        <img src="/static/logo.png" alt="Erie Games 777 Casino Skill Games" style="max-width: 100%; height: auto; margin: 0 auto; display: block;" onerror="this.style.display='none'">
 </div>
 <p>Your New Favourite spot in Erie</p>
 <span style="display:none;">
